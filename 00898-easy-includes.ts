@@ -24,7 +24,7 @@ type MyEqual<X, Y> =
   ? true
   : false;
    
-type Includes<T extends readonly any[], U> = T extends [infer A, ...infer R]
+type Includes<T extends readonly unknown[], U> = T extends [infer A, ...infer R]
   ? MyEqual<A, U> extends true
     ? true
     : Includes<R, U>
