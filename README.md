@@ -20,4 +20,10 @@
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00898-easy-includes/README.md        | O   |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/03057-easy-push/README.md            | O   |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/03060-easy-unshift/README.md         | O   |
-  | https://github.com/type-challenges/type-challenges/blob/main/questions/03312-easy-parameters/README.md      |     |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/03312-easy-parameters/README.md      | O   |
+
+- **Medium** Level
+
+  | Quest                                                                                                     | O/X |
+  | --------------------------------------------------------------------------------------------------------- | --- |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.md | O   |
