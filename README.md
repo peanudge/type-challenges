@@ -15,3 +15,4 @@
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.md    | O   |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md         | O   |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md         | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md              |     |
