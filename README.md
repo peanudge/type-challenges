@@ -17,3 +17,4 @@
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md         | O   |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md              | O   |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00533-easy-concat/README.md          | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00898-easy-includes/README.md        |     |
