@@ -27,3 +27,4 @@
   | Quest                                                                                                     | O/X |
   | --------------------------------------------------------------------------------------------------------- | --- |
   | https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.md | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md        | O   |
