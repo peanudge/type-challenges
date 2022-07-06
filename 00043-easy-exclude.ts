@@ -35,7 +35,7 @@ type cases = [
 ];
 
 
-type a = MyExclude<'a' | 'b' | 'c','c'>
+type a = MyExclude<'a' | 'b' | 'c', 'a'>
 
 /* _____________ Further Steps _____________ */
 /*
