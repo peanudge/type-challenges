@@ -24,9 +24,10 @@
 
 - **Medium** Level
 
-  | Quest                                                                                                       | O/X |
-  | ----------------------------------------------------------------------------------------------------------- | --- |
-  | https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.md   | O   |
-  | https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md          | O   |
-  | https://github.com/type-challenges/type-challenges/blob/main/questions/00008-medium-readonly-2/README.md    | O   |
-  | https://github.com/type-challenges/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.md | O   |
+  | Quest                                                                                                        | O/X |
+  | ------------------------------------------------------------------------------------------------------------ | --- |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.md    | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md           | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00008-medium-readonly-2/README.md     | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.md  | O   |
+  | https://github.com/type-challenges/type-challenges/blob/main/questions/00010-medium-tuple-to-union/README.md | O   |
